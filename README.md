@@ -1,13 +1,15 @@
+Kong
 ## Kong 网关 HMAC 鉴权 Python SDK 
 
 ## 介绍
-Kong 网关的的 Python 客户端 SDK，同样适用于移植到APISIX的HMAC鉴权，相关介绍：https://zhang.ge/5159.html
+Kong 网关的的 Python 客户端 SDK，同时兼容`Python2.x`和`3.x`，同样适用于移植到APISIX的HMAC鉴权，相关介绍：https://zhang.ge/5159.html
 
 ## 快速上手
 ### SDK 安装
 ```shell
 pip install kong-hmac
 ```
+
 
 #### 网关鉴权
 ```python
