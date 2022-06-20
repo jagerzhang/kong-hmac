@@ -1,0 +1,17 @@
+*.egg-info
+dist
+build
+.pytest_cache
+__pycache__
+logs/*
+*.log*
+*.pyc
+*.lock
+env_ext.sh
+.temp/
+.vscode
+.coverage
+*covhtml*
+.pytest_cache
+coverage.xml
+*.sh
